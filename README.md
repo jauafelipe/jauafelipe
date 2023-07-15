@@ -1,6 +1,6 @@
 <br clear="both">
 
-<h2 align="center">Seja Bem Vindo ao Meu Perfil !!</h2>
+<h1 align="center">Seja Bem Vindo ao Meu Perfil !!</h1>
 
 ###
 
@@ -17,7 +17,7 @@
 
 ###
 
-<h4 align="left">👦Redes Sociais & Contato:</h4>
+<h1 align="center">👦Redes Sociais & Contato:</h1>
 
 ###
 
@@ -32,7 +32,7 @@
 
 ###
 
-<h4 align="left">🚀Ferramentas e Linguagens🔧:</h4>
+<h1 align="center">🚀Ferramentas e Linguagens🔧:</h1>
 
 ###
 
